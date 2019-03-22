@@ -1,0 +1,354 @@
+﻿The Kid
+Nosferatu
+The Gold Rush
+Metropolis
+The General
+All Quiet on the Western Front
+City Lights
+Duck Soup
+It Happened One Night
+Modern Times
+Bringing Up Baby
+Gone with the Wind
+Mr. Smith Goes to Washington
+The Wizard of Oz
+The Grapes of Wrath
+The Great Dictator
+The Philadelphia Story
+Rebecca
+Citizen Kane
+The Maltese Falcon
+Casablanca
+Arsenic and Old Lace
+Double Indemnity
+The Best Years of Our Lives
+The Big Sleep
+It's a Wonderful Life
+Notorious
+Bicycle Thieves
+Rope
+The Treasure of the Sierra Madre
+The Third Man
+All About Eve
+Rashomon
+Sunset Boulevard
+Strangers on a Train
+A Streetcar Named Desire
+High Noon
+Ikiru
+Singin' in the Rain
+Roman Holiday
+Diabolique
+Dial M for Murder
+On the Waterfront
+Rear Window
+Seven Samurai
+La Strada
+The Night of the Hunter
+The Killing
+The Searchers
+Twelve Angry Men
+The Bridge on the River Kwai
+Paths of Glory
+The Seventh Seal
+Wild Strawberries
+Witness for the Prosecution
+Touch of Evil
+Vertigo
+Anatomy of a Murder
+Ben-Hur
+North by Northwest
+Some Like It Hot
+The Apartment
+La Dolce Vita
+Psycho
+The Hustler
+Judgment at Nuremberg
+Yojimbo
+Lawrence of Arabia
+The Man Who Shot Liberty Valance
+The Manchurian Candidate
+To Kill a Mockingbird
+Charade
+Dr. Strangelove
+The Great Escape
+A Fistful of Dollars
+Doctor Zhivago
+For a Few Dollars More
+The Sound of Music
+The Good, the Bad and the Ugly
+Persona
+Who's Afraid of Virginia Woolf?
+Cool Hand Luke
+The Graduate
+In the Heat of the Night
+Planet of the Apes
+Rosemary's Baby
+Butch Cassidy and the Sundance Kid
+Once Upon a Time in the West
+The Wild Bunch
+Patton
+A Clockwork Orange
+Harold and Maude
+The Godfather
+Solaris
+The Exorcist
+Papillon
+The Sting
+Chinatown
+The Godfather: Part II
+Monty Python and the Holy Grail
+Young Frankenstein
+Barry Lyndon
+Dog Day Afternoon
+Jaws
+One Flew Over the Cuckoo's Nest
+All the President's Men
+Network
+Rocky
+Taxi Driver
+Annie Hall
+Star Wars: A New Hope
+Dawn of the Dead
+The Deer Hunter
+Alien
+Apocalypse Now
+Being There
+Life of Brian
+Manhattan
+Stalker
+The Elephant Man
+Star Wars: The Empire Strikes Back
+Raging Bull
+The Shining
+Das Boot
+Raiders of the Lost Ark
+Blade Runner
+Fanny and Alexander
+Gandhi
+Pink Floyd: The Wall
+The Thing
+A Christmas Story
+Star Wars: Return of the Jedi
+Scarface
+Amadeus
+Nausicaa of the Valley of the Wind
+Once Upon a Time in America
+Paris, Texas
+The Terminator
+This Is Spinal Tap
+Back to the Future
+Brazil
+Aliens
+Platoon
+Stand by Me
+Castle in the Sky
+Full Metal Jacket
+Wings of Desire
+The Princess Bride
+Akira
+Die Hard
+Grave of the Fireflies
+Cinema Paradiso
+Rain Man
+My Neighbor Totoro
+Dead Poets Society
+Indiana Jones and the Last Crusade
+Dances with Wolves
+Goodfellas
+Beauty and the Beast
+The Silence of the Lambs
+Terminator 2: Judgment Day
+Aladdin
+Reservoir Dogs
+Scent of a Woman
+Unforgiven
+Groundhog Day
+In the Name of the Father
+Jurassic Park
+The Nightmare Before Christmas
+Schindler's List
+Three Colors: Blue
+Chungking Express
+Forrest Gump
+The Lion King
+Leon: The Professional
+Pulp Fiction
+The Shawshank Redemption
+Three Colors: Red
+Before Sunrise
+Braveheart
+Casino
+La Haine
+Heat
+Ghost in the Shell
+Toy Story
+Twelve Monkeys
+Underground
+The Usual Suspects
+The Bandit
+Fargo
+Sling Blade
+Trainspotting
+In the Mood for Love
+The Big Lebowski
+Life Is Beautiful
+Good Will Hunting
+L.A. Confidential
+Princess Mononoke
+The Truman Show
+American History X
+The Green Mile
+Lock, Stock and Two Smoking Barrels
+The Lord of the Rings: The Fellowship of the Ring
+Saving Private Ryan
+The Iron Giant
+The Matrix
+Fight Club
+The Celebration
+The Straight Story
+Mulholland Dr.
+The Lord of the Rings: The Return of the King
+The Lord of the Rings: The Two Towers
+The Sixth Sense
+Dancer in the Dark
+Lagaan: Once Upon a Time in India
+American Beauty
+Gladiator
+Magnolia
+Requiem for a Dream
+Monsters, Inc.
+Snatch
+Memento
+Spirited Away
+Amores Perros
+Donnie Darko
+The Pianist
+Catch Me If You Can
+Finding Nemo
+Kill Bill: Vol. 1
+A Beautiful Mind
+Dogville
+Talk to Her
+Bowling for Columbine
+City of God
+The Incredibles
+Big Fish
+Pirates of the Caribbean
+Mystic River
+Eternal Sunshine of the Spotless Mind
+Infernal Affairs
+Howl's Moving Castle
+Cinderella Man
+Memories of Murder
+Inglourious Basterds
+Downfall
+Oldboy
+Swades
+The Sea Inside
+Batman Begins
+Spring, Summer, Fall, Winter... and Spring
+Kill Bill: Vol. 2
+Casino Royale
+Before Sunset
+Ratatouille
+Sicko
+Hotel Rwanda
+The Diving Bell and the Butterfly
+Sin City
+The Lives of Others
+Million Dollar Baby
+Rang De Basanti
+The Departed
+V for Vendetta
+Toy Story 3
+The Bourne Ultimatum
+Blood Diamond
+The Pursuit of Happyness
+Pan's Labyrinth
+The Dark Knight
+There Will Be Blood
+My Father and My Son
+No Country for Old Men
+The Prestige
+Into the Wild
+Dallas Buyers Club
+Star Trek
+Persepolis
+Interstellar
+The Avengers
+Elite Squad
+How to Train Your Dragon
+WALL·E
+Black Swan
+Mary and Max
+Like Stars on Earth
+The Wolf of Wall Street
+Slumdog Millionaire
+Hachi: A Dog's Tale
+Shutter Island
+Waltz with Bashir
+3 Idiots
+My Name Is Khan
+Harry Potter and the Deathly Hallows: Part 2
+Gran Torino
+Ip Man
+A Wednesday
+Warrior
+The Secret in Their Eyes
+The Dark Knight Rises
+Inception
+Mad Max: Fury Road
+Prisoners
+Senna
+Deadpool
+The Help
+The King's Speech
+A Star Is Born
+Elite Squad: The Enemy Within
+Zindagi Na Milegi Dobara
+Exit Through the Gift Shop
+Inside Job
+The Perks of Being a Wallflower
+The Revenant
+The Intouchables
+Bohemian Rhapsody
+Kahaani
+A Separation
+Django Unchained
+X-Men: Days of Future Past
+Spotlight
+Gangs of Wasseypur
+Rush
+Guardians of the Galaxy
+Twelve Years a Slave
+The Imitation Game
+Inside Out
+The Hunt
+Hacksaw Ridge
+Searching for Sugar Man
+Gone Girl
+The Grand Budapest Hotel
+Coco
+Star Wars: The Force Awakens
+Wonder
+Blackfish
+Whiplash
+Baahubali: The Beginning
+Zootopia
+Wild Tales
+Room
+Logan
+Queen
+Sing Street
+The Martian
+Lion
+La La Land
+The Handmaiden
+Avengers: Infinity War
+Spider-Man: Into the Spider-Verse
+The Invisible Guest
+Three Billboards Outside Ebbing, Missouri
+Dangal
+Your Name.
+The Mountain II
